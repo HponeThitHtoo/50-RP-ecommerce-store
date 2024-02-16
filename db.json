@@ -1,0 +1,658 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "action"
+    },
+    {
+      "id": 2,
+      "name": "adventure"
+    },
+    {
+      "id": 3,
+      "name": "anime"
+    },
+    {
+      "id": 4,
+      "name": "classics"
+    },
+    {
+      "id": 5,
+      "name": "fps"
+    },
+    {
+      "id": 6,
+      "name": "horror"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Stickman Trenches",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Stickman-Trenches-Free-Download-Steam.png",
+      "about": "Stickman Trenches is a challenging Real Time Strategy game in which you need to manage your men and weapons and build up your defenses in the brutal trenches of Stick World War 1. ",
+      "details": "Balance focusing on attack and defense. Build up your army using numerous infantry types and powerful war machines like tanks, while also upgrading your trenchworks to better defend your men and protect your base. Remember soldier, if your base gets taken you lose. So charge across no-mans land and take the enemy’s base first!",
+      "featured": false,
+      "price": 35,
+      "stock": 5,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Scars Above",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Scars-Above-Free-Download-Steam.png",
+      "about": "Scars Above is a challenging sci-fi third-person action adventure shooter combining the rewarding feel of overcoming difficulty with a compelling and intricate story, set in a mysterious alien world to explore. Some things were not meant to be discovered.",
+      "details": "A colossal and enigmatic alien structure appears in Earth’s orbit and stuns the entire world; humanity names it ‘The Metahedron’. The Sentient Contact Assessment and Response team (SCAR) – consisting of scientists and engineers – is sent to investigate. Things don’t go as planned and the Metahedron hauls the team across space onto a mysterious extrasolar planet. Playing the role of Dr Kate Ward – a SCAR member – who wakes up dazed, alone in a strange, hostile environment. Determined to survive, you set out to find your crew and unravel the mystery behind what’s happened.",
+      "featured": false,
+      "price": 45,
+      "stock": 5,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Blood Bowl 3",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Blood-Bowl-3-Free-Download-Steam.png",
+      "about": "Wars are no longer fought in the Old World since the populace decided to resolve their differences through a sport dedicated to the god Nuffle: Blood Bowl.",
+      "details": "However, just as much blood is shed in this sport as on the battlefields it replaced. Murder, mutilation, cheating, corruption, sorcery and even divine intervention are all fair game on the pitch, to the delight of every rabid fan!",
+      "featured": false,
+      "price": 40,
+      "stock": 5,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Dark Skies: The Nemansk Incident",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Dark-Skies-The-Nemansk-Incident-Free-Download-Steam.png",
+      "about": "An explosion of unknown origin occurs and changes the area forever. The Government authorizes to start a secret operation to investigate the incident.",
+      "details": "But soon after the military Units reach the area, the contact is lost. The whole operation is about to be a failure. You are Prochor Visinov, a hired soldier and the last hope for the missing troops. Your task is to help the military, save the mission and do dangerous trips into the Nemansk Area. What happened here? And what did the scientists find out? Shine Light into the Darkness! Welcome to Nemansk!",
+      "featured": true,
+      "price": 60,
+      "stock": 5,
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Sons of the Forest",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Sons-Of-The-Forest-Free-Download-Steam.png",
+      "about": "An entirely new experience from the makers of the ‘The Forest’. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+      "details": "A Survival Horror Simulator. Experience complete freedom to tackle the world how you want. You decide what you do, where to go and how best to survive. There are no NPC’s barking orders at you or giving you missions you don’t want to do. You give the orders, you choose what happens next. Enter a world where nowhere is safe and fight against a range of mutated creatures, some who are almost human like, and others who are like nothing you have ever seen before.",
+      "featured": false,
+      "price": 70,
+      "stock": 5,
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Hogwarts Legacy",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Hogwarts-Legacy-Free-Download-Steam.png",
+      "about": "Hogwarts Legacy is an open-world action RPG set in the world first introduced in the Harry Potter books.",
+      "details": "Embark on a journey through familiar and new locations as you explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be. Experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten.",
+      "featured": true,
+      "price": 85,
+      "stock": 5,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Remyadry",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Remyadry-Free-Download-Steam.png",
+      "about": "This is a derivative work inspired by Touhou Project from “Team Shanghai Alice”. Gensokyo is connected with ‘a certain world’ and eventually a huge dungeon by the name of ‘Mazes of the Week’ appears.",
+      "details": "The mansion that protagonist Remilia was living in is trapped within this dungeon. Cooperating with companions, Remilia and co. end up having to clear that dungeon. Compose your party from a maximum of 20 units and fight your way through the dungeon. A mouse controlled RPG with character creation and dungeon crawling. Play the game using selfmade images, if you want. 1280×720 game window resolution. Synthesize and equip items, invest in the shop and make money.This game requires a mouse to play.",
+      "featured": false,
+      "price": 30,
+      "stock": 5,
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "BACCHANALIA",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Bacchanalia-Free-Download-Steam.png",
+      "about": "Your mother fell into sudden illness after your college graduation. Although the operation went very well, you still need much more money for postoperative recovery.",
+      "details": "At the suggestion of your best friend, you asked help from your mother’s friend and stepped into entertainment industry to earn money as an extra. However, troubles keep messing up with your life. At this hopeless moment, a mysterious stone gate appears in front of you…",
+      "featured": false,
+      "price": 35,
+      "stock": 5,
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "Songs Of Wuxia",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Songs-Of-Wuxia-Free-Download-Steam.png",
+      "about": "Songs Of Wuxia is a role-playing game with Chinese and anime style.",
+      "details": "You will control the heroine, confirm her confidence, find the way of her mind, then change the world. This game is not in English.",
+      "featured": false,
+      "price": 30,
+      "stock": 5,
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Nancy Drew: The Final Scene",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Nancy-Drew-The-Final-Scene-Free-Download-Steam.png",
+      "about": "Search a Darkened Movie Theater to Free a Hostage from her Captor’s Dangerous Plot! When a high school friend gets kidnapped in a historic theater, you, as Nancy Drew, are plunged into a desperate race against the clock.",
+      "details": "With the theater being torn down in just three days, can Nancy outwit the kidnapper and rescue her friend before the wrecking ball flies? Or will this be Maya’s final scene?",
+      "featured": true,
+      "price": "65",
+      "stock": 5,
+      "categoryId": 4
+    },
+    {
+      "id": 11,
+      "name": "Wildlife Park 2",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/01/wildlife-park-2-steam.jpg",
+      "about": "Wildlife Park 2 will completely satisfy animal lovers and zoo fans: an incomparable natural experience – right in your living room! Now’s the chance to build the Zoo of your dreams! Become a zoo manager and take good care of your animal charges! Wildlife Park 2 brings you into “up close and personal” contact with more than 50 different animal species.",
+      "details": "Observe the lovingly animated, realistic interaction of the animals – with other animals, the landscape, the play equipment, or the visitors to the park! Just like in a real zoo, the animals must receive all-round care. This is as easy as winking in Wildlife Park 2: With a click of the mouse you can feed, doctor, pet, or even relocate animals, or get them moving. You will guide a team of landscape architects, gardeners, keepers, veterinarians, and scientists. If you manage your zoo carefully, you will soon be able to celebrate the birth of new animals! Construct your zoo using more than 100 animal houses, visitor facilities, staff buildings, decorative park elements, and enclosure equipment. Wildlife Park 2 is an ideal playground for amateur architects, too! Use the extensive terraforming options to create your own imaginative landscapes. Plenty of established plant species and botanical rarities such us underwater plants or cacti will thrive under your loving care, and all this is lavishly displayed by a dynamic plant system. Another specialty is the realistically simulated flow of water. By easily placing a water source, you can create thunderous waterfalls and rambling water worlds.",
+      "featured": false,
+      "price": 40,
+      "stock": 5,
+      "categoryId": 4
+    },
+    {
+      "id": 12,
+      "name": "Wildlife Park",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/01/wildlife-park-steam.jpg",
+      "about": "Here is your chance to create a giant and beautiful zoo. A park so amazing, it would be impossible to build in real life.",
+      "details": "In Wildlife Park you must build an animal park from scratch, managing it so your visitors will spend their money. You begin with just the park area, a ticket booth, and some money. From there you can buy animals, build the zoo, hire employees, and then open the gates and let the visitors come.",
+      "featured": false,
+      "price": 40,
+      "stock": 5,
+      "categoryId": 4
+    },
+    {
+      "id": 13,
+      "name": "Atomic Heart",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Atomic-Heart-Free-Download-Steam.png",
+      "about": "Welcome to a utopian world of wonders and perfection, in which humans live in harmony with their loyal and fervent robots. Well, that’s how it used to be. With the launch of the latest robot-control system mere days away, only a tragic accident or a global conspiracy could disrupt it.",
+      "details": "The unstoppable course of technology along with secret experiments have brought rise to mutant creatures, terrifying machines and superpowered robots—all suddenly rebelling against their creators. Only you can stop them and find out what lies behind the idealized world. Using the combat abilities granted by your experimental power glove, your arsenal of blades and cutting-edge weaponry, fight for your life in explosive and frenetic encounters. Adapt your fighting style to each unique opponent. Combine your skills and resources, use the environment and upgrade your equipment to overcome challenges and fight for good.",
+      "featured": false,
+      "price": 50,
+      "stock": 5,
+      "categoryId": 5
+    },
+    {
+      "id": 14,
+      "name": "Vampire Slayer: The Resurrection",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Vampire-Slayer-The-Resurrection-Free-Download-Steam.png",
+      "about": "Based on my Half-Life mod from years ago, Vampire Slayer: The Resurrection is a new asymmetric first-person hero shooter where the slayers have traditional weapons and the vampires rely on speed, strength and stealth.",
+      "details": "Only the Slayers Carry Weapons. The Vampires have stealth, speed and deadly melee attacks. Slayers must knock a vampire to the ground before staking them. If they do not stake them within a few seconds the Vampire will resurrect. A Vampire can feed from dead Slayers to regain strength. Leap from tall buildings onto your prey or hunt in the dark. Now YOU must choose a side.",
+      "featured": false,
+      "price": 45,
+      "stock": 5,
+      "categoryId": 5
+    },
+    {
+      "id": 15,
+      "name": "Demon Pit",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/Demon-Pit-Free-Download-Steam.png",
+      "about": "Arise Demon Hunter. It is time. The years you spent slaughtering demon-kind in the mortal world did little to cleanse your soul. Your sins have been laid bare and you have been judged.",
+      "details": "You are damned for eternity. The pit awaits! Inspired by the fast-paced FPS games of the 1990s, Demon Pit is an intense arcade-style arena shooter. Armed with a series of ranged weapons and a soul grapple, you must fight and out maneuver endless waves of demons in a constantly changing environment. How long can you survive before they rip your flesh and claim your soul?",
+      "featured": false,
+      "price": 50,
+      "stock": 5,
+      "categoryId": 5
+    },
+    {
+      "id": 16,
+      "name": "Saint Maker – Horror Visual Novel",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Saint-Maker-Horror-Visual-Novel-Free-Download-Steam.png",
+      "about": "What makes a saint? Fire to one’s face, wounds on one’s body, dying slowly from disease — history paints a grim picture. When Holly Beltran attends a religious recollection, she discovers the dark secrets that haunt the convent’s past. At night, broken faced statues and whispered prayers haunt Holly’s dreams — before the recollection is over, Holly may have to face more than her own demons to come out alive. What happens when the faithful go too far? FEATURESReligious Horror: Experience a horror story rich with eerie religious iconography and psychological scares.",
+      "details": "A Short and Haunting Story: At around 60,000 words and with 4-6 hours of estimated gameplay, Saint Maker is perfect to play on a dark and stormy night. Fully Voiced: A cast of professional English voice actors has breathe life into the characters and their struggles. Interactive Dialogue Choices: As the horror unfolds, your choices will help Holly discover more about herself during this ordeal. A normal ending and a (secret) bonus scene await you depending on your choices. Bone-chilling Visuals: Witness the haunting setting of Saint Idelora’s Convent, with detailed backgrounds, CGs, and animated illustrations adding to an immersive and terrifying experience. Original Soundtrack: Originally composed soundtracks which add both horror and heart to the story.",
+      "featured": false,
+      "price": 70,
+      "stock": 5,
+      "categoryId": 6
+    },
+    {
+      "id": 17,
+      "name": "Vincent’s Horror Story",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/03/Vincents-Horror-Story-Free-Download-Steam.png",
+      "about": "In VINCENT’S HORROR STORY, players are placed in a haunting and surreal environment filled with terrifying creatures and puzzles. The player must navigate through each level, using their wits and problem-solving skills to find the way out and overcome obstacles. The graphics are realistically dark and eerie, helping to create a truly immersive experience. The game is a linear horror experience, with each level offering unique challenges and obstacles to overcome.",
+      "details": "Players must face their fears and confront the monsters that lurk in the shadows in order to reach the end of Vincent’s journey and uncover the truth about his subconscious. In this game, the player must rely on their instincts, quick thinking, and resourcefulness to survive. With each level offering different challenges, the player will be constantly on edge, never knowing what horrors may be waiting around the next corner. The game is designed to create a tense and frightening atmosphere, making it a must-play for fans of horror games. Whether it’s solving puzzles, avoiding traps, or escaping from monsters, Vincent’s Horror Story will test the player’s courage and determination. So, if you’re looking for an adrenaline-fueled and truly frightening gaming experience, give Vincent’s Horror Story a try.",
+      "featured": false,
+      "price": 95,
+      "stock": 5,
+      "categoryId": 6
+    },
+    {
+      "id": 18,
+      "name": "The Karaoke",
+      "image": "https://steamunlocked.net/wp-content/uploads/2023/02/chillas-Art-The-Karaoke-Free-Download-Steam.png",
+      "about": "The Karaoke | ヒトカラ is a Japanese horror game about a high school girl at a Karaoke.",
+      "details": "Immersive experience: An atmospheric, believable environment intensifies the horror experience. VHS film aesthetic: VHS aesthetic emulates the look and feel of CRT screens, including phosphor screen trail and bleeding, VHS tape noise, interlacing, and jitter in the analog video signal adding extra immersion to the horror experience. Psychological horror: The game will drive you insane. Japanese Theme: Environment art inspired by Japanese horror films. AutoSave: Autosaves every checkpoint.Multiple Endings: There are 6 endings.",
+      "featured": false,
+      "price": 90,
+      "stock": 5,
+      "categoryId": 6
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "message": "S.T.A.L.K.E.R in Miami",
+      "gameId": 4,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "message": "AINT NO WAY! The sky is dark!11!!!!!!!!11! Prob because is night",
+      "gameId": 4,
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "message": "isn't this the game made in a drag and drop game maker.",
+      "gameId": 4,
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "message": "The only reason I want to play this game is because I played and wrote essays on all the Maze games Madhead made. I don't really know what inspired them to switch from making point and click hidden object games to a third person shooter, but whatever.",
+      "gameId": 2,
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "message": "another zombie-like game",
+      "gameId": 2,
+      "userId": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Pinky",
+      "email": "pinky@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "Steve",
+      "email": "steve@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "username": "Arthur",
+      "email": "arthur@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "username": "Gorge",
+      "email": "gorge@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "username": "Rosy",
+      "email": "rosy@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "bd891279-d75c-4b0f-a89b-26c6886626d0",
+      "username": "Richi",
+      "email": "richi@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "gears": [
+    {
+      "id": 1,
+      "name": "Xbox Wireless Controller",
+      "description": "A wireless game controller for xbox and PC",
+      "brand": "xbox",
+      "category": "controller",
+      "price": 44.99,
+      "stock": 5,
+      "colors": [
+        "black",
+        "white",
+        "blue",
+        "red",
+        "volt"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://assets.xboxservices.com/assets/55/83/55836945-e141-4d47-9dad-21d902948816.jpg?n=111101_Gallery-0_1_1350x759.jpg"
+        },
+        {
+          "id": 2,
+          "color": "white",
+          "image": "https://assets.xboxservices.com/assets/ef/01/ef018f9e-e135-435b-8439-9a4be7ba2f09.jpg?n=111101_Gallery-0_8_1350x759.jpg"
+        },
+        {
+          "id": 3,
+          "color": "blue",
+          "image": "https://assets.xboxservices.com/assets/77/ca/77cacee0-2f37-41d8-b7df-49d64e935ce9.jpg?n=111101_Gallery-0_17_1350x759.jpg"
+        },
+        {
+          "id": 4,
+          "color": "red",
+          "image": "https://assets.xboxservices.com/assets/fb/a4/fba4b1b3-a093-44f7-afe3-548783279992.jpg?n=111101_Gallery-0_23_1350x759.jpg"
+        },
+        {
+          "id": 5,
+          "color": "volt",
+          "image": "https://assets.xboxservices.com/assets/1c/e7/1ce760ed-d588-4976-baa9-cbabe583436b.jpg?n=111101_Gallery-0_29_1350x759.jpg"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Logitech F710 Wireless Controller",
+      "description": "A wireless game controller for PC",
+      "brand": "Logitech",
+      "category": "controller",
+      "price": 40,
+      "stock": 5,
+      "colors": [
+        "gray"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "gray",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/f710/f710-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Logitech EXTREME 3D PRO JOYSTICK",
+      "description": "A wireless Joystick for PC",
+      "brand": "Logitech",
+      "category": "controller",
+      "price": 35,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/xtreme-3d-pro-joystick/3dpro-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Logitech HEAVY EQUIPMENT BUNDLE",
+      "description": "Simulation Wheel, Pedals and Side Panel Control Deck for PC",
+      "brand": "Logitech",
+      "category": "controller",
+      "price": 200,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/heavy-equipent-bundle/farm-bundle-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Logitech POWERPLAY",
+      "description": "Wireless Charging System",
+      "brand": "Logitech",
+      "category": "gadget",
+      "price": 100,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/heavy-equipent-bundle/farm-bundle-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "G502 X GAMING MOUSE",
+      "description": "Logitech Gaming Mouse",
+      "brand": "Logitech",
+      "category": "mouse",
+      "price": 80,
+      "stock": 5,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g502x-corded/gallery/g502x-corded-gallery-1-black.png"
+        },
+        {
+          "id": 2,
+          "color": "white",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g502x-corded/gallery/g502x-corded-gallery-1-white.png"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "G613",
+      "description": "Logitech Wireless Mechanical Gaming Keyboard",
+      "brand": "Logitech",
+      "category": "keyboard",
+      "price": 80,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g613/g613-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "G733",
+      "description": "Logitech LIGHTSPEED Wireless RGB Gaming Headset",
+      "brand": "Logitech",
+      "category": "headset",
+      "price": 150,
+      "stock": 5,
+      "colors": [
+        "lilac",
+        "kda",
+        "white",
+        "black",
+        "blue"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "lilac",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-lilac-gallery-1.png"
+        },
+        {
+          "id": 2,
+          "color": "kda",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/kda/g733-kda-gallery-1.png"
+        },
+        {
+          "id": 3,
+          "color": "white",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-white-gallery-1.png"
+        },
+        {
+          "id": 4,
+          "color": "black",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-black-gallery-1.png"
+        },
+        {
+          "id": 5,
+          "color": "blue",
+          "image": "https://resource.logitechg.com/w_1600,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-blue-gallery-1.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Razer Iskur X",
+      "description": "Razer Ergonomic Gaming Chair",
+      "brand": "Razer",
+      "category": "chair",
+      "price": 320,
+      "stock": 5,
+      "colors": [
+        "black",
+        "hellokitty"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://assets3.razerzone.com/I9UXIyHklkRZO0W9YfDHA8pSg0U=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh25%2Fhf0%2F9184349224990%2Fiskur-x-gallery-1500x1000-03.jpg"
+        },
+        {
+          "id": 2,
+          "color": "hellokitty",
+          "image": "https://assets3.razerzone.com/s3x6T3VmBWDVS7uj7Mep8L8VnWI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh50%2Fhce%2F9313026310174%2F220120-iskur-x-hello-kitty-1500x1000-4.jpg"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "VANTUM GAMING CHAIR",
+      "description": "Logitech VANTUM GAMING CHAIR",
+      "brand": "Logitech",
+      "category": "chair",
+      "price": 795,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://images.hermanmiller.group/m/10bad8ae41fdd2f2/W-HM_MODG_32211.png"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Razer Kraken V3",
+      "description": "Wired USB Gaming Headset with Razer Chroma RGB",
+      "brand": "Razer",
+      "category": "headset",
+      "price": 100,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://assets3.razerzone.com/nsNEL8pF0tmxfHfHDVFjUqPNLUU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh5f%2Fh5e%2F9248879509534%2F211021-kraken-v3-1500x1000-2.jpg"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Razer Ornata V3 - US",
+      "description": "Low-profile Mecha-membrane RGB Keyboard",
+      "brand": "Razer",
+      "category": "keyboard",
+      "price": 70,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://assets3.razerzone.com/sdSSyrUBHrf_LurJT110k7jHpq4=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh91%2Fha4%2F9413534318622%2F220623-ornata-v3-1500x1000-1.jpg"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": 13,
+      "name": "Razer Basilisk X HyperSpeed",
+      "description": "Wireless Gaming Mouse with Razer™ HyperSpeed Technology",
+      "brand": "Razer",
+      "category": "mouse",
+      "price": 60,
+      "stock": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "color": "black",
+          "image": "https://assets3.razerzone.com/sRtoAmk-mVULkTfS1vC_Zcsu40A=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb3%2Fh1d%2F9081448955934%2Frazer-basilisk-x-hyperspeed-gallery-04.jpg"
+        }
+      ],
+      "featured": false
+    }
+  ],
+  "cart": {
+    "games": [
+      {
+        "gameId": 1,
+        "name": "Stickman Trenches",
+        "quantity": 1,
+        "price": 35,
+        "max": 5
+      },
+      {
+        "gameId": 2,
+        "name": "Scars Above",
+        "quantity": 2,
+        "price": 45,
+        "max": 5
+      }
+    ],
+    "gears": [
+      {
+        "gearId": 1,
+        "name": "Xbox Wireless Controller",
+        "quantity": 1,
+        "price": 49.99,
+        "color": "black",
+        "max": 5
+      },
+      {
+        "gearId": 2,
+        "name": "Logitech F710 Wireless Controller",
+        "quantity": 2,
+        "price": 40,
+        "color": "gray",
+        "max": 5
+      }
+    ],
+    "totalItems": 6,
+    "totalAmount": 254.99
+  }
+}
